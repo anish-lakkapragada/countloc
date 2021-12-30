@@ -1,0 +1,3 @@
+[console_scripts]
+countloc = countloc.__main__:main
+

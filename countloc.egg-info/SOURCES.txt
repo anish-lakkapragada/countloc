@@ -1,0 +1,8 @@
+setup.py
+countloc/__init__.py
+countloc/__main__.py
+countloc.egg-info/PKG-INFO
+countloc.egg-info/SOURCES.txt
+countloc.egg-info/dependency_links.txt
+countloc.egg-info/entry_points.txt
+countloc.egg-info/top_level.txt
