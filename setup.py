@@ -1,5 +1,3 @@
-from setuptools import setup
-
 import sys
 from setuptools import setup
 
@@ -11,7 +9,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name = 'countloc',
-    version="0.69", 
+    version=version_name,
     author = "Anish Lakkapragada", 
     author_email="anish.lakkapragada@gmail.com",
     description = "countloc is a simple CLI to count the number of lines of code in your directory that you wrote.", 
