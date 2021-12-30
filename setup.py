@@ -1,6 +1,7 @@
 from setuptools import setup
 
 import sys
+from setuptools import setup
 
 version_name = sys.argv[1].replace("refs/tags/", "")
 del sys.argv[1]
